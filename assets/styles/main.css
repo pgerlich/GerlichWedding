@@ -8746,8 +8746,8 @@ a.br-rsvp__rsvp-form_btn:visited {
 }
 
 .br-rsvp__bridalParty-person_img img {
-    width: 540px;
-    max-width: 540px;
+    width: 75%;
+    max-width: 75%;
     height: auto;
     margin: auto
 }
